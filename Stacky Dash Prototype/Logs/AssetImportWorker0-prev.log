@@ -144,3 +144,4 @@ Received Import Request.
 Start importing Assets/Plugins using Guid(ff1004c36a9e3734eb4e6dc23dd48696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a870e60a0806fc35449367d8341583d0') in 0.006109 seconds 
   Import took 0.008525 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
